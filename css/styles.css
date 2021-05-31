@@ -79,3 +79,9 @@ body {
 p {
   color: #8f8f8f;
 }
+
+/* Map */
+#map1, #map2, #map3 {
+  height: 300px;
+  width: 100%;
+}
